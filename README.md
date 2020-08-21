@@ -1,5 +1,5 @@
 # DimorphilusGenome
-Public repository for code and additional datasets for Dimorphilus gyrociliatus genome study
+Public repository for additional datasets for Dimorphilus gyrociliatus genome study
 
 This repository contains:
 
