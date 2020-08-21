@@ -4,4 +4,9 @@ Public repository for code and additional datasets for Dimorphilus gyrociliatus 
 This repository contains:
 
 - Dimorphilus gyrociliatus GFF annotation file for Transposable Elements and repeats (Dgyrociliatus_TEannotation.gff)
-- 
+- Dimorphilus gyrociliatus GTF annotation file for filtered gene models (Dgyrociliatus_filtered_genemodels.gtf)
+- Dimorphilus gyrociliatus XLS file for the functional annotation of transcripts, including best BLAST hit, PFAM domains, and GO/EGGNOG/KEGG annotations (Dgyrociliatus_functionalannotation.xls)
+- Dimorphilus gyrociliatus BED file for IDR-filtered ATAC-seq peaks (Dgyrociliatus_ATAC_IDRpeaks.bed)
+- Dimorphilus gyrociliatus TAR file with BEDGRAPH files for raw CAGE tag clusters ()
+- Dimorphilus gyrociliatus GFF annotation file for Transposable Elements and repeats (Dgyrociliatus_TEannotation.gff)
+- Dimorphilus gyrociliatus GFF annotation file for Transposable Elements and repeats (Dgyrociliatus_TEannotation.gff)
